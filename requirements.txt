@@ -8,3 +8,4 @@ Werkzeug==2.0.2
 pytube==11.0.1
 requests==2.26.0
 insta-scrape==2.1.2
+youtube_dl
